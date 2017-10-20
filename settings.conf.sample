@@ -1,0 +1,16 @@
+{
+	"ListenPort": 49101,
+	"Database": "database.db",
+
+	"IgnoredArticles": [ "A", "The" ],
+	"Folders":
+	[
+		"D:/Music/Shared"
+	],
+
+	"Users":
+	[
+		{ "Username": "USERNAME", "Password": "PASSWORD" }
+	]
+}
+
